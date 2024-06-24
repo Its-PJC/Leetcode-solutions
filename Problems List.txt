@@ -1,0 +1,11 @@
+## Problems List
+
+### Array/String
+- 88. Merge Sorted Array
+- 27. Remove Element
+- 26. Remove Duplicates From Sorted Array
+- 80. Remove Duplicates From Sorted Array II
+- 169. Majority Array
+- 189. Rotate Array
+- 121. Best Time To Buy And Sell Stock
+- 
